@@ -1,5 +1,5 @@
 # support_website_TrueScan
-<<<<<<< HEAD
-# aaaaaaaaaa
-=======
->>>>>>> d0f6aca41ef3ce034f3ad0a643e42d65e3b6455e
+
+Support website for **TrueScan**, an app that detects machine-generated (AI) voices in audio recordings.
+
+The site is a single static file (`index.html`) and is intended to be hosted on GitHub Pages and used as the **Support URL** for the App Store listing.
